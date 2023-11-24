@@ -1,0 +1,454 @@
+'0':
+  helmet:
+    ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  leggings:
+    ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  chestplate:
+    ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  boots:
+    ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  hand:
+    ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  visible: true
+  small: false
+  arms: true
+  plate: false
+  body:
+    x: 6.1086523819801535
+    y: 0.0
+    z: 0.0
+  head:
+    x: 2.96705972839036
+    y: 0.0
+    z: 0.0
+  leftarm:
+    x: 0.0
+    y: 0.0
+    z: 4.71238898038469
+  rightarm:
+    x: 0.0
+    y: 0.0
+    z: 1.5707963267948966
+  leftleg:
+    x: 6.1086523819801535
+    y: 0.0
+    z: 0.0
+  rightleg:
+    x: 6.1086523819801535
+    y: 0.0
+    z: 0.0
+  pitch: 0.0
+  yaw: 0.0
+  position:
+    x: -0.5
+    y: 0.0
+    z: -1.5
+'1':
+  helmet:
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+  leggings:
+    ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  chestplate:
+    ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  boots:
+    ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  hand:
+    ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  visible: false
+  small: true
+  arms: true
+  plate: false
+  body:
+    x: 6.1086523819801535
+    y: 0.0
+    z: 0.0
+  head:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  leftarm:
+    x: 0.0
+    y: 0.0
+    z: 4.71238898038469
+  rightarm:
+    x: 0.0
+    y: 0.0
+    z: 1.5707963267948966
+  leftleg:
+    x: 6.1086523819801535
+    y: 0.0
+    z: 0.0
+  rightleg:
+    x: 6.1086523819801535
+    y: 0.0
+    z: 0.0
+  pitch: 0.0
+  yaw: 0.0
+  position:
+    x: -0.5
+    y: 0.7000000000000002
+    z: -1.6000000000000227
+'2':
+  helmet:
+    ==: org.bukkit.inventory.ItemStack
+    type: STONE_BUTTON
+  leggings:
+    ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  chestplate:
+    ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  boots:
+    ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  hand:
+    ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  visible: true
+  small: false
+  arms: false
+  plate: false
+  body:
+    x: 2.0245819323134224
+    y: 0.0
+    z: 0.0
+  head:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  leftarm:
+    x: -0.17453292519943295
+    y: 0.0
+    z: -0.17453292519943295
+  rightarm:
+    x: -0.2617993877991494
+    y: 0.0
+    z: 0.17453292519943295
+  leftleg:
+    x: 2.96705972839036
+    y: 0.0
+    z: 0.0
+  rightleg:
+    x: 2.96705972839036
+    y: 0.0
+    z: 0.0
+  pitch: 0.0
+  yaw: 0.0
+  position:
+    x: -0.5
+    y: 0.5999999999999996
+    z: -1.7000000000000455
+'3':
+  helmet:
+    ==: org.bukkit.inventory.ItemStack
+    type: COAL_BLOCK
+  leggings:
+    ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  chestplate:
+    ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  boots:
+    ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  hand:
+    ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  visible: false
+  small: true
+  arms: false
+  plate: false
+  body:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  head:
+    x: 0.17453292519943295
+    y: 0.0
+    z: 0.0
+  leftarm:
+    x: -0.17453292519943295
+    y: 0.0
+    z: -0.17453292519943295
+  rightarm:
+    x: -0.2617993877991494
+    y: 0.0
+    z: 0.17453292519943295
+  leftleg:
+    x: -0.017453292519943295
+    y: 0.0
+    z: -0.017453292519943295
+  rightleg:
+    x: 0.017453292519943295
+    y: 0.0
+    z: 0.017453292519943295
+  pitch: 0.0
+  yaw: 0.0
+  position:
+    x: -0.5
+    y: -0.20000000000000018
+    z: -1.0
+'4':
+  helmet:
+    ==: org.bukkit.inventory.ItemStack
+    type: COAL_BLOCK
+  leggings:
+    ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  chestplate:
+    ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  boots:
+    ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  hand:
+    ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  visible: false
+  small: true
+  arms: false
+  plate: false
+  body:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  head:
+    x: 6.1086523819801535
+    y: 0.0
+    z: 0.0
+  leftarm:
+    x: -0.17453292519943295
+    y: 0.0
+    z: -0.17453292519943295
+  rightarm:
+    x: -0.2617993877991494
+    y: 0.0
+    z: 0.17453292519943295
+  leftleg:
+    x: -0.017453292519943295
+    y: 0.0
+    z: -0.017453292519943295
+  rightleg:
+    x: 0.017453292519943295
+    y: 0.0
+    z: 0.017453292519943295
+  pitch: 0.0
+  yaw: 0.0
+  position:
+    x: -0.5
+    y: -0.20000000000000018
+    z: -0.7000000000000455
+'5':
+  helmet:
+    ==: org.bukkit.inventory.ItemStack
+    type: STEP
+    damage: 6
+  leggings:
+    ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  chestplate:
+    ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  boots:
+    ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  hand:
+    ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  visible: false
+  small: true
+  arms: false
+  plate: false
+  body:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  head:
+    x: 0.2617993877991494
+    y: 0.0
+    z: 0.0
+  leftarm:
+    x: -0.17453292519943295
+    y: 0.0
+    z: -0.17453292519943295
+  rightarm:
+    x: -0.2617993877991494
+    y: 0.0
+    z: 0.17453292519943295
+  leftleg:
+    x: -0.017453292519943295
+    y: 0.0
+    z: -0.017453292519943295
+  rightleg:
+    x: 0.017453292519943295
+    y: 0.0
+    z: 0.017453292519943295
+  pitch: 0.0
+  yaw: 0.0
+  position:
+    x: -0.5
+    y: -0.4500000000000002
+    z: -0.25
+'6':
+  helmet:
+    ==: org.bukkit.inventory.ItemStack
+    type: STEP
+    damage: 6
+  leggings:
+    ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  chestplate:
+    ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  boots:
+    ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  hand:
+    ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  visible: false
+  small: true
+  arms: false
+  plate: false
+  body:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  head:
+    x: 0.2617993877991494
+    y: 0.0
+    z: 0.0
+  leftarm:
+    x: -0.17453292519943295
+    y: 0.0
+    z: -0.17453292519943295
+  rightarm:
+    x: -0.2617993877991494
+    y: 0.0
+    z: 0.17453292519943295
+  leftleg:
+    x: -0.017453292519943295
+    y: 0.0
+    z: -0.017453292519943295
+  rightleg:
+    x: 0.017453292519943295
+    y: 0.0
+    z: 0.017453292519943295
+  pitch: 0.0
+  yaw: 0.0
+  position:
+    x: -0.5
+    y: -0.5600000000000005
+    z: 0.14999999999997726
+'7':
+  helmet:
+    ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  leggings:
+    ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  chestplate:
+    ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  boots:
+    ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  hand:
+    ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  visible: true
+  small: false
+  arms: false
+  plate: false
+  body:
+    x: 0.9424777960769379
+    y: 0.0
+    z: 0.0
+  head:
+    x: 1.239183768915974
+    y: 0.0
+    z: 0.0
+  leftarm:
+    x: -0.17453292519943295
+    y: 0.0
+    z: -0.17453292519943295
+  rightarm:
+    x: -0.2617993877991494
+    y: 0.0
+    z: 0.17453292519943295
+  leftleg:
+    x: 2.007128639793479
+    y: 0.0
+    z: 0.0
+  rightleg:
+    x: 2.007128639793479
+    y: 0.0
+    z: 0.0
+  pitch: 0.0
+  yaw: 0.0
+  position:
+    x: -0.5
+    y: 0.5
+    z: -0.39999999999997726
+'8':
+  helmet:
+    ==: org.bukkit.inventory.ItemStack
+    type: SKULL_ITEM
+    damage: 3
+  leggings:
+    ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  chestplate:
+    ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  boots:
+    ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  hand:
+    ==: org.bukkit.inventory.ItemStack
+    type: AIR
+  visible: false
+  small: true
+  arms: true
+  plate: false
+  body:
+    x: 6.1086523819801535
+    y: 0.0
+    z: 0.0
+  head:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  leftarm:
+    x: 0.0
+    y: 0.0
+    z: 4.71238898038469
+  rightarm:
+    x: 0.0
+    y: 0.0
+    z: 1.5707963267948966
+  leftleg:
+    x: 6.1086523819801535
+    y: 0.0
+    z: 0.0
+  rightleg:
+    x: 6.1086523819801535
+    y: 0.0
+    z: 0.0
+  pitch: 0.0
+  yaw: 0.0
+  position:
+    x: -0.5
+    y: 0.7000000000000002
+    z: -0.22000000000002728

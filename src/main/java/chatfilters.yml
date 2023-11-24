@@ -1,0 +1,696 @@
+##########>>AD BLACKLIST<<##########
+adblacklist:
+  - join
+  - bekommen owner
+  - bekommt rang
+  - bauevent
+  - bewerbe dich
+  - suche dev
+  - suche archi
+  - op rang
+  - psc code
+  - pickaxechat
+  - minechat
+  - chatcraft
+  - verkaufe account
+  - folgt mir auf
+  - abonniert mich auf
+  - followed mir auf
+  - 'twitch:'
+  - k0stenl0s
+  - spielste auf
+  - spielst du auf
+  - k0mmt
+  - kommt auf
+  - kommt mal auf
+  - kommt doch mal auf
+  - kommt alle auf
+  - auf den server
+  - anderen server
+  - andere server
+  - anderer server
+  - eigenen server
+  - neue server
+  - neuen server
+  - hore auf mit
+  - hor auf mit
+  - mit mux auf
+  - hore mit mux
+  - verlasse mux
+  - leave mux
+  - tot der server
+  - der server ist
+  - server ist tot
+  - minecraft ist
+  - ist mull
+  - schmutzcraft
+  - kennt jemand einen
+  - leave den server
+  - leaven
+  - ich leave
+  - lefte
+  - mux stirbt
+  - rip mux
+  - geld zuruck
+  - hackcraft
+  - nur bots
+  - alles hacker
+  - geht down
+  - geht eh down
+  - kb mehr
+  - mehr auf mux
+  - toter server
+  - dead server
+  - serverstirbt
+  - serveristehbalddown
+  - serverhierehdown
+  - server down
+  - muxdown
+  - muxisttot
+  - muxistdead
+  - muxistschm
+  - league of legends
+  - fortnite
+  - cs:go
+  - csgo
+  - cs go
+  - strike
+  - offensive
+  - fifa
+  - bo3
+  - bo4
+  - black ops
+  - pubg
+  - nivalis
+  - voiceserver
+  - ts von
+  - teamhc
+  - citybuild
+  - skyblock
+  - minecraftsky
+  - hypixel
+  - gomme
+  - craftedeu
+  - raxcraft
+  - razecraft
+  - defiancecraft
+  - elementalcraft
+  - lernverbot
+  - soul
+  - nightpvp
+  - skymaus
+  - skyzero
+  - ragefight
+  - rangpvp
+  - ragepvp
+  - rainpvp
+  - goldpvp
+  - morepvp
+  - veltpvp
+  - zonepvp
+  - seelenpvp
+  - ascalter
+  - bek0m
+  - netzwerk
+  - network
+  - opsucht
+  - goldsucht
+  - fakesucht
+  - mineshine
+  - mineman
+  - minemen
+  - minecake
+  - bausucht
+  - minesucht
+  - toastpilot
+  - pixelhills
+  - raynight
+  - endfight
+  - endfi
+  - ' ef '
+  - auf end
+  - abgegrieft
+  - abgeserver
+  - griefergames
+  - griefermacht
+  - grieferfake
+  - kekspvp
+  - skycrex
+  - skyclash
+  - skyauto
+  - skyslayer
+  - ragemode
+  - skyhero
+  - sturmwaffel
+  - arematics
+  - aternos
+  - 'mc-'
+  - '(.)'
+  - cubemc
+  - katjamc
+  - risenmc
+  - aspire
+  - espire
+  - janomine
+  - muxsystem
+  - servnu
+  - nbbone
+  - 'ip:'
+  - ' punkt '
+  - punktde
+  - punktme
+  - '* eu '
+  - freeop
+  - freerang
+  - premium4free
+  - skyelite
+  - crafthills
+  - timepvp
+  - timolia
+  - endmc
+  - skypvp
+  - skypotion
+  - skyopa
+  - skygiants
+  - palle
+  - beastmode
+  - craftingpat
+  - rewinside
+  - taddl
+  - avive
+  - esconia
+  - myclif
+  - nexivgames
+  - mineside
+  - minecrime
+  - blackempire
+  - levelpvp
+####################################
+###########>>BLACKLIST<<############
+blacklist:
+  - scheis
+  - scheiß
+  - benindert
+  - erbarmlich
+  - ehrenloser
+  - armselig
+  - ekelhaft
+  - armer
+  - lacherlich
+  - rumzuheulen
+  - weinste
+  - traurige
+  - minderw
+  - kahl
+  - hassliche
+  - gesichts
+  - erhang
+  - ertrink
+  - suicide
+  - selbstmord
+  - dich irl
+  - hang dich
+  - bring dich
+  - gefasst
+  - jahriger
+  - durchne
+  - retard
+  - zigeuner
+  - eklig
+  - rotz
+  - furz
+  - piss
+  - hauptschul
+  - egril
+  - bitch
+  - blas
+  - schlamp
+  - pedo
+  - nigger
+  - neger
+  - neqer
+  - nigga
+  - niqqa
+  - niqqer
+  - nibber
+  - nibba
+  - '*nega'
+  - loser
+  - looser
+  - wichs
+  - wiix
+  - wixx
+  - wixer
+  - fiste
+  - '*anal'
+  - '*hiv'
+  - aids
+  - tourette
+  - tourrete
+  - tourete
+  - tourrett
+  - tourett
+  - lispel
+  - trisomie
+  - abtreiben
+  - abgetrieben
+  - adhs
+  - downie
+  - downsyndrom
+  - down syndrom
+  - pussy
+  - pssy
+  - pvssy
+  - pussi
+  - muschi
+  - mvschi
+  - moese
+  - möse
+  - hoeschen
+  - hoschen
+  - fotze
+  - fxtze
+  - ftzn
+  - fresse
+  - fress
+  - frese
+  - fett
+  - adipos
+  - dick
+  - schiss
+  - '*lauch'
+  - hdf
+  - hdm
+  - stink
+  - gunstgewerblerin
+  - prostitu
+  - slut
+  - puff
+  - dirnenspross
+  - '=hs'
+  - '=ns'
+  - hhuur
+  - huuu
+  - urenso
+  - hure
+  - huxe
+  - huxa
+  - hxre
+  - hurr
+  - huran
+  - '*hurn'
+  - '*hren'
+  - huhre
+  - huure
+  - huso
+  - hvso
+  - hxan
+  - huan
+  - hvan
+  - huaen
+  - huen
+  - '*ßter h'
+  - '*sster h'
+  - bimbo
+  - ritz
+  - rizz
+  - schlitz
+  - adern
+  - pulsader
+  - pulzader
+  - pups
+  - kaka
+  - kack
+  - kcke
+  - '*kak'
+  - schnauze
+  - kelb
+  - verreck
+  - geh sterben
+  - geh verecken
+  - geh verrecken
+  - wirst sterben
+  - kill yourself
+  - spacko
+  - spast
+  - '*spasst'
+  - verpiss
+  - verpsi
+  - behindert
+  - ' hrs'
+  - hrsn
+  - hrns
+  - hrnshn
+  - fehlgeburt
+  - mistgeburt
+  - missgeburt
+  - miesgeburt
+  - misgebur
+  - misset
+  - missit
+  - misit
+  - eier
+  - gay
+  - homo
+  - transe
+  - lesbisch
+  - schwul
+  - vergewalt
+  - rape
+  - inzucht
+  - schwuchtel
+  - schwuchtl
+  - maul
+  - mavl
+  - dumm
+  - dvmm
+  - '*halts'
+  - blow
+  - cock
+  - xx
+  - '*sex'
+  - nackt
+  - schluck
+  - lappen
+  - lappn
+  - '*arsch'
+  - anus
+  - hoden
+  - nutte
+  - nxtte
+  - nutto
+  - nvtte
+  - ntte
+  - nudde
+  - sohn
+  - knecht
+  - abschaum
+  - wannabe
+  - '*fag'
+  - faeggot
+  - fgt
+  - fget
+  - fggt
+  - titten
+  - '*low'
+  - bast
+  - bstrd
+  - bstard
+  - kys
+  - mudda
+  - muhdda
+  - muddi
+  - '*amk'
+  - amena
+  - lelek
+  - yarak
+  - asyl
+  - kanacke
+  - kanake
+  - binladen
+  - kopftuch
+  - koran
+  - flüchtling
+  - cancer
+  - krebs
+  - vagina
+  - dildo
+  - ebola
+  - figgen
+  - fick
+  - fuck
+  - fvck
+  - fuk u
+  - fck
+  - orgasm
+  - herpes
+  - penis
+  - pimmel
+  - penetriert
+  - penner
+  - schwanz
+  - schwanze
+  - lutsch
+  - lvtsch
+  - suck
+  - svck
+  - inzest
+  - dreck
+  - bullshit
+  - shit
+  - jungfrau
+  - porn
+  - '*afd'
+  - jude
+  - juhde
+  - vergas
+  - gaskammer
+  - gashahn
+  - hitler
+  - hitla
+  - führer
+  - auschwitz
+  - nazi
+  - natzi
+  - sieg heil
+  - sieg hail
+  - 卐
+  - 卍
+  - ✔
+  - alder
+  - altah
+  - opfer
+  - opfa
+  - wreck
+  - autist
+  - autismus
+  - du bob
+  - noskill
+  - noname
+  - noob
+  - '*kek'
+  - rekt
+  - l2p
+  - '*stfu'
+  - owned
+  - ownd
+  - '* ez'
+  - sag bye zu
+  - 'h.s'
+  - 'hs.'
+  - '*shs'
+  - ' hs'
+  - ' h s'
+  - ' ns'
+  - messer
+  - grabstein
+  - stirb irl
+  - stirb an
+  - stirbt dein
+  - hoffe du stirbst
+  - hoffentlich stirb
+  - deine tote
+  - mum tot
+  - mami tot
+  - mami dead
+  - mum deadd
+  - '*mama'
+  - '*mami'
+  - '*m0m'
+  - eltern von
+  - deine eltern
+  - elternteil
+  - v4ter
+  - mütter
+  - s vater
+  - s mutter
+  - deine mutter
+  - 'eure ma '
+  - eure mum
+  - eure mom
+  - eure mam
+  - 'deine ma '
+  - deine mom
+  - deine mum
+  - deine mam
+  - dein vater
+  - dein dad
+  - deiner mutter
+  - 'deiner ma '
+  - deiner mom
+  - deiner mum
+  - deiner mam
+  - deine mutti
+  - deiner mutti
+  - seine mutti
+  - deinem vater
+  - seine mutter
+  - 'seine ma '
+  - seine mum
+  - seine mam
+  - seine mom
+  - sein vater
+  - seine schwester
+  - deiner schwester
+  - deine schwester
+  - deine sis
+  - deiner sis
+  - seine sis
+  - deine fam
+  - deiner fam
+  - seine fam
+  - deine oma
+  - deiner oma
+  - seine oma
+  - hundetochter
+  - adoptier
+  - familie
+  - family
+  - 'besorg ich es '
+  - dein leben
+  - das leben
+  - vergrab dich
+  - dem fenster
+  - ausm fenster
+  - leben nehmen
+  - sklave
+  - kidd
+  - kind
+  - hackst
+  - hackt
+  - hacker
+  - h4ck
+  - ' hax'
+  - ' bannt'
+  - timest
+  - dein internet
+  - juckt
+  - du hund
+  - nodus
+  - huzuni
+  - killaura
+  - lagg
+  - laggg
+  - lagggg
+  - laag
+  - laaag
+  - laaaag
+  - laaaaag
+  - healbug
+  - healbugs
+  - healbuggs
+  - restart
+  - crash
+  - mcspam
+  - bungeesmash
+  - server spinnt
+  - p2w
+  - pay2win
+  - pay to win
+  - votegeil
+  - geldgeil
+  - fakespende
+  - fake money
+  - darknet
+  - eula
+  - moneyrain
+  - ripmoney
+  - rip money
+  - kreditkarte
+  - geld von eltern
+  - moneywaste
+  - geldwaste
+  - taschengeld
+  - geldbeutel
+  - geldverschwendung
+  - geld verschwend
+  - demote
+  - scam
+  - quit
+####################################
+#############>>DOXING<<#############
+dox:
+  - nulleins
+  - o15
+  - o16
+  - o17
+  - '015'
+  - '016'
+  - '017'
+  - '4917'
+  - '4915'
+  - '4916'
+  - '+49'
+  - nudes
+  - nvdes
+  - nummer von
+  - nachname
+  - anruf
+  - ddos
+  - deine ip
+  - verkaufe ein bild
+  - bilder von
+  - bild von
+####################################
+###########>>WHITELIST<<############
+whitelist:
+  - halloween
+  - feier
+  - freier
+  - heier
+  - geier
+  - archiv
+  - korrekt
+  - indirekt
+  - direkt
+  - hundert
+  - kanal
+  - ehren
+  - jahren
+  - fahren
+  - ihren
+  - fuhren
+  - ohren
+  - trotz
+  - trainingscamp
+  - neuladen
+  - ansporn
+  - gshits
+  - kakao
+  - amkeit
+  - ertrinke
+  - basteln
+  - bombastisch
+  - slow
+  - flow
+  - aufget
+  - methoden
+  - barsch
+  - knackt
+  - homogen
+  - instinkt
+  - kaktus
+  - hitz
+  - analyse
+  - flagge
+  - farmer
+  - keks
+  - reingeschissen
+  - clown
+  - oritz
+  - uritz
+  - warscheinlich
+  - banner
+  - glowstone
+  - entbannung
+  - rejoin
+  - wahren
+  - '2013'
+  - '2014'
+  - '2015'
+  - '2016'
+  - '2017'
+  - sekunde
+####################################
+###########>>NAMEFILTER<<###########
+namefilter: []

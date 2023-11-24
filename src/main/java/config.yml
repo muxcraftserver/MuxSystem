@@ -1,0 +1,88 @@
+#############>>MYSQL<<#############
+database:
+    username: root
+    password: test
+    url: jdbc:mysql://localhost:3306/dbname?autoReconnect=true&maxReconnects=3
+    shared:
+      username: root
+      password: test
+      url: jdbc:mysql://localhost:3306/dbname?autoReconnect=true&maxReconnects=3
+####################################
+#############>>EMAIL<<##############
+email:
+  auth_enabled: true
+  info:
+    username: "info@muxcraft.eu"
+    password: "password"
+  support:
+    username: "support@muxcraft.eu"
+    password: "password"
+  starttls_enabled: true
+  host: mail.muxcraft.eu
+  port: 25
+  ssl_trust: mail.muxcraft.eu
+####################################
+########>>SLOTS, MOTD, usw.<<#######
+servername: Server
+joinmsg: '§8§l>> §fChange this message in the §c§lAdmin Menu'
+bossbar: '§7§lMux§a§lCraft'
+slots: 400
+lang: 'de'
+worldlimit: 50000
+warpworldlimit: 600
+shutdown: false
+debug: false
+beta: false
+telegrambot: 'key'
+####################################
+#############>>BOSSBAR<<############
+##########>>AUTOMESSAGES<<##########
+automessages: []
+####################################
+##############>>VOTE<<##############
+vote:
+  items:
+  - 332 5
+  - 264 10
+  commands:
+  - gems add [NAME] 10
+  - coins add [NAME] 5000
+  - crate add [NAME] RANDOM
+  message:
+  - '&5▛▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▜'
+  - '  &7Du hast &63 Zufälige Kisten &7erhalten!'
+  - '  &7Du hast §e5000 MuxCoins &7erhalten!'
+  - '  &7Du hast &a10 Gems erhalten!'
+  - '  &7Du hast &b10 Diamanten &7erhalten!'
+  - '  &7Du hast &cZugriff auf das Menü&7!'
+  - '  &7Du hast &d5 Schneebälle &7erhalten!'
+  - '  &eDanke für das Voten!'
+  - '&5▙▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▟'
+####################################
+##############>>NEWS<<##############
+news:
+  title: 'News'
+  text: 'Welcome to the server!'
+  link: 'news'
+  linktext: 'To the website'
+##############>>MAPS<<##############
+rankedmaps:
+  - Wüste
+  - Dschungel
+  - Fluss
+  - Royale
+  - Podzol
+duelmaps:
+  - Burg
+  - Sand
+#######>>SPECIALPERMISSIONS<<#######
+trusted:
+  - marint94
+fulltrusted:
+  - CONSOLE
+  - marint94
+worldguard:
+  - marint94
+worldedit:
+  - marint94
+####################################

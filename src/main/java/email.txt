@@ -1,0 +1,1 @@
+Hey $playername, hier ist dein Verifizierungscode, gib diesen im Minecraft Chat auf MuxCraft ein. $msg

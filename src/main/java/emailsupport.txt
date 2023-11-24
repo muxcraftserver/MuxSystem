@@ -1,0 +1,1 @@
+Hey $playername, du hast eine neue Antwort von MuxSupport. Antwort: $msg

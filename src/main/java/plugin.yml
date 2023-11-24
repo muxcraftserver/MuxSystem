@@ -1,0 +1,373 @@
+name: MuxSystem
+main: me.muxteam.muxsystem.MuxSystem
+authors: [marinus1111, marint94, MrCakeMaster, DevVersion, kingjan1999, MrJohnnytheKing]
+website: https://muxcraft.eu
+description: MuxSystem is a complete plugin-system for MuxCraft.
+version: 10.0
+database: false
+loadbefore: [ConditionalCommands]
+depend: [WorldGuard]
+commands:
+##### TEAM ONLY #####
+    coins:
+        description: Console MuxCoins Command
+        aliases: [coin,muxcoins,muxcoin]
+        # Redirects to MUXCOIN HELP if no permissions
+    gems:
+        description: Console Gems Command
+        aliases: [gem]
+        # Redirects to GEMSHOP if no permissions
+    payment:
+        description: Console Payment Command
+        aliases: [chargeback]
+    rankupgrade:
+        description: Rankupgrade Payment Command
+    exp:
+        description: Console EXP Command
+        aliases: [xp]
+    punish:
+        description: Console Punish Command
+        aliases: [strafe,strafen]
+    admin:
+        description: Admin Panel
+        aliases: [a]
+    holo:
+        description: Holograms
+        aliases: [holograms,hologram]
+    poll:
+        description: Start poll
+        aliases: [umfrage,u,polls]
+    logoutall:
+        description: Maintenance & Logoutall
+    build:
+        description: Join the build server
+        aliases: [bau,bauserver]
+    o:
+        description: Player overview
+        aliases: [whois,seen,cp,overview,kick]
+    h:
+        description: See player history
+        aliases: [verlauf,history,his]
+    clearchat:
+        description: Clear the chat
+        aliases: [cc,chatclear]
+    countdown:
+        description: Start a countdown
+        aliases: [cd]
+    silent:
+        description: Silence the chat
+        aliases: [s]
+    chatfilter:
+        description: Modify the chat filter
+        aliases: [filter]
+    getloc:
+        description: Shows your location
+        aliases: [getpos]
+    uuid:
+        description: Get player UUID
+    muxtimings:
+        description: Show timings of async tasks
+    usertransfer:
+        description: Transfer player data
+    getblock:
+        description: Shows you the block you are standing on
+    getentities:
+        description: Show nearby entities
+    debugpackets:
+        description: Debugs packet ms
+    spawnertest:
+        description: add this to admin settings later
+    droppeditemtest:
+        description: add this to admin settings later
+###############################
+########Admin Commands#########
+###############################
+    broadcast:
+        description: Broadcast message
+        aliases: [bcast,rundruf,say]
+    enchant:
+        description: Enchant an item
+        aliases: [ench]
+        # Redirects to ETABLE if no permissions
+    fly:
+        description: Toggle fly mode
+        # Redirects to GEMSHOP if no permissions
+        aliases: [god, godmode]
+    gamemode:
+        description: Toggle game modes
+        aliases: [gm]
+    give:
+        description: Give a player an item
+    head:
+        description: Get head of a player
+        aliases: [kopf]
+        # Redirects to GEMSHOP if no permissions
+    id:
+        description: View the item id
+    item:
+        description: Get an item
+        aliases: [i]
+    jump:
+        description: Jump!
+        aliases: [j,jumpto]
+    kill:
+        descritpion: Kill a player
+        aliases: [slay]
+    lightning:
+        description: Toggle lightning mode
+    more:
+        description: Multiply items in hand
+    rename:
+        description: Rename items
+    setspawn:
+        description: Set the spawn
+    setwarp:
+        description: Set a warp
+    speed:
+        description: Set your fly speed
+    sudo:
+        description: Simulate a chat/command as any player
+    time:
+        description: Set the server time
+        # Redirects to PTIME if no permissions
+    tp:
+        description: Teleport to another player
+        # Redirects to TPA if no permissions
+    tphere:
+        description: Teleport someone to you
+        # Redirects to TPAHERE if no permissions
+    tppos:
+        description: Teleport to specific coordinates
+        # Redirects to RTP if no permissions
+    vanish:
+        description: Become invisible
+        aliases: [v]
+###############################
+########Normal Commands########
+###############################
+    vote:
+        description: Instructions to paradise
+        alias: [voten]
+    paysafecard:
+        description: PaySafeCard
+        aliases: [paysafecards,psc,paysafe,paysafekarte]
+    buy:
+        description: Donate to god for eternal life
+        aliases: [onlineshop]
+    c: # Clan Base only with Vote  # Advanced with team
+        description: View and create clans
+        aliases: [clan,clans,party]
+    friends:
+        description: View and add friends
+        aliases: [f,freund,friend,freunde]
+    pvp: # Advanced with team
+        description: View PvP fights & stats
+        aliases: [duel,fduel,duell,1vs1,zuschauen,spectate,ranking,kills]
+    extras: # Advanced with team
+        description: View and toggle Extras
+        aliases: [extra,perks,perk,pet,pets,mount,mounts,extracmd,extrabefehle,extraender,emoji,emojis]
+    affiliate: # Advanced with team
+        description: Become Affiliate and refer players
+        aliases: [werben]
+    email: # Advanced with team
+        description: Link your email and collect benefits
+    support: # Advanced with team
+        description: Request support
+        aliases: [sup]
+    tips:
+        description: List of all tips
+        aliases: [tipps,tip,tipp]
+    basen:
+        description: View all other bases
+        aliases: [grief,griefen]
+    games:
+        description: PvP Training
+        aliases: [g,training]
+    market:
+        description: Premium Market
+        aliases: [ah, markt]
+    gemshop:
+        description: Open Gem Shop
+    report: # Advanced with team
+        description: Report a player
+    d:
+        description: Open trash
+        aliases: [abfall,ci,clean,clear,mull,trash]
+### UNLISTED
+    bewerben:
+        description: Apply as a child of god
+        aliases: [bewerbung,apply,application]
+    rules:
+        description: Lists all the commandments
+        aliases: [regeln]
+    contact:
+        description: List of social networks
+        aliases: [forum,ts,teamspeak,insta,instagram,kontakt,infos,discord]
+    feedback:
+        description: Give feedback to leadership
+    rank: # Advanced with team
+        description: Onlineshop Preview
+        aliases: [rang, vorteile, op]
+    muxsystem:
+        description: MuxSystem Info
+        aliases: [ms, me, mux]
+    team: # Advanced with team
+        description: Team panel
+        aliases: [staff]
+    cw: # Advanced with team
+        description: ClanWar
+        aliases: [clanwar,clanwars]
+    event: # Advanced with team
+        description: View & Join Events
+        aliases: [events]
+    gift: # Advanced with team
+        description: Giftcodes
+        aliases: [gutschein,code,giftcode]
+    rtp:
+        description: Random Teleport
+        aliases: [wildnis]
+    btc:
+        description: Check the price of Bitcoin
+### ONLY WITH VOTE
+    user:
+        description: View user profiles
+        aliases: [money,profil,profile,stats]
+    crates: # Advanced with team
+        description: Crates
+        aliases: [kiste, kisten, crate]
+    shop:
+        description: Warp Shop
+    sell: # Advanced with team
+        description: Sell items in the shop
+        aliases: [verkaufen]
+    menu: # Advanced with team
+        description: Menu
+    trade:
+        description: Trade with other players
+        aliases: [handel, handeln, pay]
+    base:
+        description: Teleport to your base
+        aliases: [plot,p]
+    casino: # Advanced with team
+        description: Join Casino
+        aliases: [sex]
+###############################
+########Member Commands########
+###############################
+    help:
+        description: Help!
+        aliases: [hilfe,befehle]
+    spawn:
+        description: Teleport to spawn
+    msg:
+        description: Send a private message
+        aliases: [pm,pn,m,t,tell,whisper,w,mail,smsg,emsg]
+    r:
+        description: Reply to private message
+        aliases: [reply]
+    ignore:
+        description: Ignore private messages
+    ping:
+        description: Shows ping of player
+        aliases: [pong,test]
+### UNLISTED
+    lag: # Advanced with team
+        description: Shows the server performance
+        aliases: [gc,lagg]
+    sethome:
+        description: Set a home
+### ONLY WITH VOTE
+    repair:
+        description: Repair your items
+        aliases: [fix,ifix]
+    tpa:
+        description: Send a teleport request
+    tpacancel:
+        description: Cancels all teleport requests
+    tpaccept:
+        description: Accept a teleport request
+    home: # Advanced with team
+        description: Set a home
+        aliases: [homes,delhome]
+    warp: # Advanced with team
+        description: Teleport to warps
+        aliases: [warps]
+###############################
+#########Rank Commands#########
+###############################
+    creator:
+        description: Creator Menu
+        aliases: [yt,youtuber,youtube,creators]
+    pt:
+        description: Set a macro
+        aliases: [macro,powertool]
+    pweather:
+        description: Set the weather
+    x:
+        description: X Rank Menu
+    gold:
+        description: GOLD Rank Menu
+    ultra:
+        description: ULTRA Rank Menu
+    kit:
+        description: Receive kit
+        aliases: [kits,tools,potion,potions]
+    enderchest: # Advanced with team
+        description: View enderchest of players
+        aliases: [echest,enderkiste,e,ec]
+    invsee: # Advanced with team
+        description: View inventories of players
+    hat:
+        description: Set a block as hat
+    spawner:
+        description: Set spawner to a mob
+    workbench:
+        description: Open a workbench
+        aliases: [wb,craft]
+    top: # Advanced with team
+        description: Teleport to the top
+    feed:
+        description: Feed yourself
+        aliases: [eat,essen,hunger]
+    heal: # Advanced with team
+        description: Heal yourself
+    ptime:
+        description: Set the time
+    stack:
+        description: Stack Items
+    colors:
+        description: List all chat colors
+        aliases: [farbe,farben,color]
+    back:
+        description: Teleport back to previous location
+### ONLY WITH VOTE
+    tpahere:
+        description: Send a teleport request
+###############################
+########Extra Commands#########
+###############################
+    anvil:
+        description: Open an anvil
+        aliases: [amboss]
+    etable:
+        description: Open an enchantment table
+        aliases: [zaubertisch]
+    cook:
+        description: Cook an item
+    bodysee:
+        description: View armor of players
+        aliases: [viewarmor]
+    goldswitch:
+        description: Convert goldnuggets to gold bars
+    smelt:
+        description: Smelt an item
+    fill:
+        description: Fill glass bottles
+    bottle:
+        description: Convert glass to glass bottles
+    xray:
+        description: Shows ores around you
+    near:
+        description: Show players near you
+    bottlexp:
+        description: Convert EXP to an EXP bottle
