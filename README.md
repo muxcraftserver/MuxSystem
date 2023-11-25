@@ -19,7 +19,7 @@ Das Projekt wird mit dem Artifact-System von IntelliJ gebaut. Hier sind die Schr
 5. Ziehe nun zuerst  `xyz compile output` in den `Output Layout` Bereich. 
 6. Jetzt machst du rechtsklick auf Client-1.0.2-RELEASE.jar und wählst `Extract to Output Root`.
 7. Wiederhole Schritt 6 mit Server-1.0.2-RELEASE.jar, Shared-1.0.2-RELEASE.jar, mail-1.5.0.jar, json-20210307.jar, httpclient-4.5.13.jar und httpcore-4.4.13.jar.
-8Klicke auf `OK`, um das Artifact zu erstellen.
+8. Klicke auf `OK`, um das Artifact zu erstellen.
 
 **Die Artifakte sollten am Ende ungefähr so aussehen:**
 
