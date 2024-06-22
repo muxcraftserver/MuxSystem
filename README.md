@@ -2,7 +2,8 @@
 
 **Das originale MuxCraft System, v10.**
 
-*Alle Server Dateien findest du auf https://muxcraft.eu*
+- *Website: [muxcraft.eu](https://muxcraft.eu)*
+- *Alle Server Dateien & Maps findest du auf: [archive.org/download/muxcraft](https://archive.org/download/muxcraft)*
 
 ## Features
 
@@ -214,3 +215,7 @@ Um eine MySQL-Verbindung für dieses Projekt einzurichten, musst du die `config.
 4. Speichere die Änderungen und schließe die Datei.
 
 Jetzt ist dein Projekt so konfiguriert, dass es eine Verbindung zu deiner MySQL-Datenbank herstellt, wenn es ausgeführt wird.
+
+## License
+
+This is free and unlicensed software. You are free to use, modify, and distribute this software in any way you want without any restrictions or conditions.
