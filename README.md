@@ -2,8 +2,18 @@
 
 **Das originale MuxCraft System, v10.**
 
-- *Website: [muxcraft.eu](https://muxcraft.eu)*
 - *Alle Server Dateien & Maps findest du auf: [archive.org/download/muxcraft](https://archive.org/download/muxcraft)*
+
+---
+
+MuxCraft ist seit Juli 2023 geschlossen.
+
+Danke an **413,165 Spieler** seit März 2012, die uns zum erfolgreichsten Minecraft PvP-Server Deutschlands gemacht haben.
+
+- Website: [muxcraft.eu](https://muxcraft.eu)
+- YouTube: [youtube.com/muxcraft](https://youtube.com/muxcraft)
+- Discord: [discord.com/invite/EqrVXM7](https://discord.com/invite/EqrVXM7)
+- Email: [muxcraft@gmail.com](mailto:muxcraft@gmail.com)
 
 ## Features
 
